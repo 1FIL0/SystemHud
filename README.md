@@ -3,3 +3,5 @@
 </p>
 
 ![](readme_assets/systemhud-allchars.png)
+## LICENCE
+SystemHud is licenced under GPL-3.0
