@@ -11,4 +11,4 @@ A stylistic UI font designed for games, huds and short bursts of text. Currently
 2. simply install the fonts from the fonts/ folder
 
 ## LICENCE
-SystemHud is licenced under GPL-3.0
+Read the LICENCE file 
