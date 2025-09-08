@@ -3,7 +3,7 @@
 </p>
 
 ## Overview
-A stylistic UI font designed for games, huds and short bursts of text. Currently in beta
+A stylistic UI font designed for games, huds and short bursts of text. Currently in very early beta
 
 ![](readme_assets/systemhud-allchars.png)
 ## Install
